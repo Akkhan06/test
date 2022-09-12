@@ -1,0 +1,87 @@
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+    .choto{
+
+        margin: 0mm;
+        height: 300px;
+        width: 300px;
+        background-color: rgba(255, 94, 0, 0.753);
+        color: brown;
+        transition-property: all;
+        transition-duration: 10s;
+        position: relative;
+        border-radius: 50%;
+        background-image: url(image/sala2.png);
+        background-size: 100%;
+        left: 40%;
+    
+
+    }
+
+    .boro{
+        height: 30px;
+        width: 30px;
+        position: relative;
+        left: 5%;
+        top: 3%;
+        background-color: hwb(16 31% 0% / 0.651);
+        background-image: none;
+    }
+    
+    .mejo{
+        height: 50px;
+        width: 50px;
+        position: relative;
+        left: 77%;
+        top: 70%;
+        background-color: aqua;
+        background-image: none;
+        
+    }
+
+    .div2{
+width: 40%;
+float: left;
+margin-left: 5%;
+padding-left: 2%;
+    }
+
+    .sala{
+     color: coral;
+    }
+    .wow{
+        font-weight: 200;
+    }
+
+    .ancor{
+        background-color: orange ;
+        text-decoration: none;
+        padding: 10px 20px;
+        border-radius: 5px;
+        color: white;
+        font-weight: 700;
+        background-image: linear-gradient(80deg, rgb(212, 121, 16), tomato);
+    }
+
+    .akk{
+        width: 100px;
+        height: 100px;
+        background-color: rgb(243, 121, 7);
+        border-radius:0% 100% 100% 0% / 100% 0% 100% 0%  ;
+    }
+
+    .sob-thake{
+        position: relative;
+        left: 0%;
+    
+    }
+
+
+
+
+    .nisar{
+        width: 30%;
+    }

@@ -158,3 +158,6 @@ padding-left: 2%;
     border-image: linear-gradient(180deg, rgb(20, 22, 163), rgb(71, 212, 255));
     border-image-slice: 1;
 }
+footer{
+    text-align: center;
+}

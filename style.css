@@ -1,6 +1,7 @@
 
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0%;
 }
 
     .choto{
@@ -16,7 +17,7 @@ body{
         border-radius: 50%;
         background-image: url(image/sala2.png);
         background-size: 100%;
-        left: 55%;
+        left: 45%;
     
 
     }
@@ -71,6 +72,7 @@ padding-left: 2%;
         height: 100px;
         background-color: rgb(243, 121, 7);
         border-radius:0% 100% 100% 0% / 100% 0% 100% 0%  ;
+        
     }
 
     .sob-thake{
@@ -103,7 +105,7 @@ padding-left: 2%;
         height: 120px;
         background-color: white;
         position: relative;
-        left: 50px;
+        left: 44px;
     }
     .round2{
         width: 50px;
@@ -118,10 +120,41 @@ padding-left: 2%;
         margin-right: 70px;
     
     }
-
-    .content{
-        padding-right: 40px;
+    
+    .kintu{
+        background-color: rgba(69, 179, 230, 0.788);
     }
 
+    .artical{
+        width: 40%;
+        float: left;
+    }
     
-    
+    section{
+        height: 300px;
+    }
+    .full{
+        color: coral;
+    }
+    .first{
+        width: 70%;
+    }
+.div3{
+    box-shadow: 10px 10px 40px gray;
+    border-radius:  10px;
+}
+#exprince{
+    position: relative;
+    left:30px;
+}
+#id1{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, rgb(163, 20, 20), tomato);
+    border-image-slice: 1;
+}
+
+#id2{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, rgb(20, 22, 163), rgb(71, 212, 255));
+    border-image-slice: 1;
+}
